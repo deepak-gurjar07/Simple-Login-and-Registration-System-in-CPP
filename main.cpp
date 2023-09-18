@@ -79,7 +79,7 @@ int main()
     // If a user already has an account and wants to log in.
     else if (choice == 2)
     {
-        // Create a variable 'status' and assign it to the 'IsLoggedIn' function.
+                // Create a variable 'status' and assign it to the 'IsLoggedIn' function.
         // Proceed from there.
         bool status = IsloggedIn();
 
